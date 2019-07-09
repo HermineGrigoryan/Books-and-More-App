@@ -28,3 +28,9 @@ have been inserted since most of the books are 200+ pages and it would have been
 consuming and not user friendly to have the plots go over the entire texts of the books to plot
 each graph.
 
+The project was completed by AUA students:
+- Anna Baghumyan 
+- Maria Davoodian
+- Hermine Grigoryan   
+- Arusyak Hakobyan
+- Lilia Mamikonyan
