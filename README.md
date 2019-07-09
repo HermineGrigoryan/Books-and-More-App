@@ -1,6 +1,6 @@
 # Books & More - Group Project
 
-The link to the shiny app can be found [here](https://hermine.shinyapps.io/Books-and-More/)
+The link to the shiny app can be found [here](https://hermine.shinyapps.io/Books-and-More/).
 
 The "Books & More" application aims to provide statistical information, qualitative and
 quantitative analysis targeted not only towards people with a desire to find an interesting book
